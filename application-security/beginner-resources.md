@@ -21,7 +21,7 @@ Start with where you are.  Talk through some of the core concepts mentioned in t
 | overthewire Bandit | [website](http://overthewire.org/wargames/bandit/) | Yes | Lab | Linux |
 | OWASP ASVS | [website](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project) | Yes | Document | SLDC |
 | NIST Cybersecurity Framework | [website](https://www.nist.gov/cyberframework) | Yes | Framework | Cyber Security |
-|  |  |  |  |  |
+| Cyberseek Career Path Discovery Tool | [website](https://www.cyberseek.org/pathway.html) | Yes  | Resource | Career |
 
 
 
