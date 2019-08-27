@@ -9,4 +9,4 @@
 | [flAWS 2](http://flaws2.cloud/) | Welcome to the flAWS 2 challenge! Similar to the original flAWS.cloud \(also created by Summit Route\), this game/tutorial teaches you AWS \(Amazon Web Services\) security concepts | Yes |
 | [Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) | OWASP Juice Shop is probably the most modern and sophisticated insecure web application | Yes |
 | [Web Goat](https://webgoat.github.io/WebGoat/) | A deliberately insecure application that allows interested developers just like you to test vulnerabilities commonly found in Java-based applications that use common and popular open source components. | Yes |
-
+| [Metasploitable v3](https://blog.rapid7.com/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3/) | A free virtual machine that allows you to simulate attacks largely using Metasploit. It has been used by people in the security industry for a variety of reasons: such as training for network exploitation, exploit development, software testing, technical job interviews, sales demonstrations, or CTF junkies who are looking for kicks. | Yes |
